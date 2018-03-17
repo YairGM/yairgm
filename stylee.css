@@ -7,8 +7,14 @@
   min-width: 30%;
   background-image: url("http://res.cloudinary.com/dna5ogpht/image/upload/v1521166917/top.jpg");
   background-size: cover;
-  font-family: 'Didact Gothic', sans-serif;
   margin-bottom:1px;
+}
+h1{
+	text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    letter-spacing: 0.085em;
+    font-family: 'Didact Gothic', sans-serif;
 }
 .container {
   padding: 80px 120px;
@@ -18,11 +24,17 @@
 
   }
 h3 {
-  margin: 10px 0 30px 0;
-  letter-spacing: 5px;      
-  font-size: 30px;
-  color: #111;
   text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    letter-spacing: 0.085em;
+    font-family: 'Didact Gothi', sans-serif;
+    font-size: 35px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    float: none !important;
+
   }
 em{
  font-size: 20px;
